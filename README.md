@@ -1,6 +1,6 @@
 # t
 
-> Nuxt.js TypeScript project
+> You have to import the .sql file and edit the database server details in ../config/database.ts and server.ts
 
 ## Build Setup
 
